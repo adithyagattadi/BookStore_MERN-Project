@@ -6,10 +6,10 @@ Table View
 Card View
 <img width="1466" alt="image" src="https://github.com/adithyagattadi/BookStore_MERN-Project/assets/122796208/34659049-e168-4f60-978a-67cdb0f40356">
 
-Show Books
+Create Books
 <img width="1427" alt="image" src="https://github.com/adithyagattadi/BookStore_MERN-Project/assets/122796208/d949de5b-666a-4c99-9ac2-75fd3f928da0">
 
-Create Books
+Show Books
 <img width="737" alt="image" src="https://github.com/adithyagattadi/BookStore_MERN-Project/assets/122796208/6d80b227-6228-4f3b-8c9f-bfc27b97c5aa">
 
 Edit Books
